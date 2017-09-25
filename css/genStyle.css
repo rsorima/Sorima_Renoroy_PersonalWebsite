@@ -1,0 +1,29 @@
+body{background: url(../img/body-bg.jpg); 
+	margin-top: 65px; 
+	margin-bottom: 40px;}
+	
+.header{
+	background: #d3b483; 
+	border-radius: 3px 3px 0 0; 
+	overflow: hidden; 
+	font-family: 'fjalla_oneregular';
+	min-width: 450px;
+	max-width: 650px;}
+	
+.logo h1{ 
+	font-size: 30px; 
+	line-height: 32px; 
+	color: #403b32; 
+	text-transform: uppercase; 
+	font-weight: normal;
+}
+.logo {font-family: 'fjalla_oneregular'; float: left; padding: 20px;}
+
+.menus >li {	border-right: 1px solid #e7d2b0;}
+
+.menus > li > a {text-transform: uppercase; 
+					color: #584f41; 
+					font-size: 12px; 
+					line-height: 30px; 
+					text-shadow: none; 
+					padding: 23px 15px;}
