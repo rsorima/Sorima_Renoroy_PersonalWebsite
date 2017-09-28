@@ -1,29 +1,35 @@
-body{background: url(../img/body-bg.jpg); 
-	margin-top: 65px; 
-	margin-bottom: 40px;}
-	
+#container { position : relative;
+		margin-left: 80px;}
+
 .header{
 	background: #d3b483; 
 	border-radius: 3px 3px 0 0; 
 	overflow: hidden; 
 	font-family: 'fjalla_oneregular';
 	min-width: 450px;
-	max-width: 650px;}
+	max-width: 970px;}
 	
 .logo h1{ 
-	font-size: 30px; 
+	font-size: 30px;
 	line-height: 32px; 
 	color: #403b32; 
 	text-transform: uppercase; 
-	font-weight: normal;
+	font-weight: bold;
+	padding-left: 30px;
+	padding-right:100px;
 }
-.logo {font-family: 'fjalla_oneregular'; float: left; padding: 20px;}
+.logo {font-family: 'fjalla_oneregular'; float: left;}
+ a:active{color: #584f41; background: #c2a270; box-shadow: none;}
+ a:hover{color: #fff; background: #c2a270;}
+.menus >li {border-right: 1px solid #e7d2b0;}
+.menus {margin-top: 20px	;}
+.menus > ul{ list-style-type : none;}
+.menus > ul li { display : inline; text-transform : uppercase;}
 
-.menus >li {	border-right: 1px solid #e7d2b0;}
-
-.menus > li > a {text-transform: uppercase; 
-					color: #584f41; 
-					font-size: 12px; 
-					line-height: 30px; 
-					text-shadow: none; 
-					padding: 23px 15px;}
+a {	color: #584f41; 
+	font-size: 12px; 
+	line-height: 30px; 
+	text-shadow: none; 
+	padding: 23px 15px;
+	text-decoration : none;
+	font-size : 18px;}
