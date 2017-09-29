@@ -1,5 +1,3 @@
-#container { position : relative;
-		margin-left: 80px;}
 
 .header{
 	background: #d3b483; 
@@ -33,3 +31,8 @@ a {	color: #584f41;
 	padding: 23px 15px;
 	text-decoration : none;
 	font-size : 18px;}
+	
+#contentChange {
+		width : 970px;
+		height: 600px;
+}
