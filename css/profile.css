@@ -5,3 +5,12 @@ body {
 #tbl1 td {font-size : 21px;}
 
 #tbl1{ margin-top : 30px;}
+h1{ text-transform : uppercase; font-weight: bold; }
+
+#tbl2 th,td{ padding : 7px 10px 10px 10px;}
+#tbl2 th{ text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size: 26px;
+border-top: 2px solid #111111;
+}
+#tbl2 td {font-size: 24px;}
