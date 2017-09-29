@@ -14,3 +14,9 @@ font-size: 26px;
 border-top: 2px solid #111111;
 }
 #tbl2 td {font-size: 24px;}
+.tunga { padding-left: 130px; }
+.right { padding-left: 100px; text-align : right; }
+#cTable td{ font-size: 20px;}
+.cName { padding-left: 40px ;}
+.course { padding-left: 145px ;}
+.value {color: #626262;}
