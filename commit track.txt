@@ -1,0 +1,16 @@
+7. created iframe for the dynamic changing display and the main source is the profile
+8. target profile link to iframe
+9. created profile html
+10. added photo in profile.html
+11. added general info in profile
+12. added educational attainment table
+13. adds new font to fonts folder "source sans pro"
+14. created profile.css
+15. designs the general info in profile
+16. adds educational attainment info in profile.html
+17. centered the display of the website
+18. design and layout the table for educ attain
+19. adds background to the profile.html
+20. final design and layout of the profile
+21. created work.html for the work link
+
