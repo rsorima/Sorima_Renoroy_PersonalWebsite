@@ -20,3 +20,11 @@ border-top: 2px solid #111111;
 .cName { padding-left: 40px ;}
 .course { padding-left: 145px ;}
 .value {color: #626262;}
+
+h2 a{ text-decoration : none; 
+	background-color : #c2a270; 
+	color:  #403b32;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	}
+h2 a:hover{color: #fff; background: #c2a270;}
