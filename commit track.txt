@@ -13,4 +13,12 @@
 19. adds background to the profile.html
 20. final design and layout of the profile
 21. created work.html for the work link
+22. adds padding to the iframe
 
+23. creates a contact.html for the contacts.
+24. designs contact.html
+25. creates and layout contact link in profile
+26. adds work experience in work.html
+27. layout the work experience
+28. layout the list of work experience 
+29. updates the layout tracker
