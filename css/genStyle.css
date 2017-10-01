@@ -14,7 +14,7 @@
 	text-transform: uppercase; 
 	font-weight: bold;
 	padding-left: 30px;
-	padding-right:60px;
+	padding-right:50px;
 }
 .logo {font-family: 'fjalla_oneregular'; float: left;}
  a:active{color: #584f41; background: #c2a270; box-shadow: none;}
@@ -27,8 +27,11 @@
 a {	color: #584f41; 
 	font-size: 12px; 
 	line-height: 30px; 
-	text-shadow: none; 
-	padding: 23px 15px;
+	text-shadow: none; 	
+	padding-top : 23px;
+	padding-left: 10px;
+	padding-bottom: 23px;
+	padding-right:10px;
 	text-decoration : none;
 	font-size : 18px;}
 	
