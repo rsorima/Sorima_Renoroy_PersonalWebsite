@@ -14,11 +14,20 @@
 20. final design and layout of the profile
 21. created work.html for the work link
 22. adds padding to the iframe
-
 23. creates a contact.html for the contacts.
 24. designs contact.html
 25. creates and layout contact link in profile
 26. adds work experience in work.html
-27. layout the work experience
-28. layout the list of work experience 
-29. updates the layout tracker
+27. create a list of the work experience
+28. layout the work experience
+29. updates the commit tracker
+
+30. adds home link.
+31. creates home.html
+32. change the source of iframe to home content
+33. adds details on my skills
+34. adds additional layout on skills
+35. puts additional image, source of home
+36. adds content on home
+37. position the image.
+38. updates the commit tracker
