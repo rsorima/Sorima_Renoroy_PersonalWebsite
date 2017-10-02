@@ -38,3 +38,14 @@
 42. adjust the size of the photo
 43. makes photo clickable and open in a new pop-op window.
 44. resize the homepage photo
+
+45. makes the facebook redirect to my FB account
+46. adds image to work.html
+47. adds additional images to photos
+48. use the images and display it in the photos.html and resize the images
+49. add paddings to the pictures
+50. created achievements.html
+51. edits the aspirations to achievements
+52. reduces the padding of the header logo
+53. adds details on achievements
+54. layouts the achievements
