@@ -31,3 +31,10 @@
 36. adds content on home
 37. position the image.
 38. updates the commit tracker
+
+39. created photos.html
+40. creates a new folder and adds photo
+41. adds initial photo
+42. adjust the size of the photo
+43. makes photo clickable and open in a new pop-op window.
+44. resize the homepage photo
